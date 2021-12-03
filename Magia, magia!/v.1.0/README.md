@@ -1,6 +1,6 @@
 # Magic!
 <header>
-    <img src="https://img.shields.io/badge/Pyxel-v1.4.3-blue alt="Pyxel" data-canonical-src=https://img.shields.io/badge/Pyxel-v1.4.3-blue style="max-width:100%;">
+    <img src="https://img.shields.io/badge/Pyxel-v1.4.3-blue alt="Pyxel" style="max-width:100%;">
 
     
 </header>
