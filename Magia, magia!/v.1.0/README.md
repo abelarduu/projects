@@ -1,6 +1,6 @@
 # Magic!
 <header>
-    <a href="https://pypi.org/project/pyxel/"><img src="https://img.shields.io/badge/Pyxel-v1.4.3-blue alt="Pyxel" style="max-width:100%;"></a>
+    <a href="https://pypi.org/project/pyxel/"><img src="https://img.shields.io/badge/Pyxel-v1.4.3-blue" alt="Pyxel" style="max-width:100%;"></a>
 
     
 </header>
