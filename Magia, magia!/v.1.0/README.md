@@ -1,11 +1,7 @@
 # Magic!
 <header>
-
-    <p><a href="https://pypi.org/project/pyxel/"><img src="https://img.shields.io/badge/Pyxel-v1.4.3-blue" alt="Pyxel" style="max-width:100%;"></a><p>
-
-    
+    <a href="https://pypi.org/project/pyxel/"><img src="https://img.shields.io/badge/Pyxel-v1.4.3-blue" alt="Pyxel" style="max-width:100%;"></a>
 </header>
-
     
 <div>
     <p>Controle um mago, lute contra goblins e sobreviva o máximo possivel.</p>
