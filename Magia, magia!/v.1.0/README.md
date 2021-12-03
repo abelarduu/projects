@@ -1,7 +1,5 @@
-
-
+# Magic!
 <header>
-    # Magic!
     <img src="images/icon.ico" type="image/ico" width="32" height="32"/>
     <a href="https://pypi.org/project/pyxel/"><img src="https://img.shields.io/badge/Pyxel-v1.4.3-blue" alt="Pyxel V.1.4.3" style="max-width:100%;"></a>
 </header>
