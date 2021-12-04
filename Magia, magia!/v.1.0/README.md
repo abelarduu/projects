@@ -37,10 +37,9 @@
 <img src="images/my.ico" type="image/ico" width="64" height="64"/>
 <p><b>Abel Lucas</b>🎮</p>
 icones_instagram 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/>
  Icone_email
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" width="32" height="32"/>
 
 
 
