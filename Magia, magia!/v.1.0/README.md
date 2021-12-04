@@ -15,8 +15,7 @@
 
 <div>
     <p><h2>Especificações</h2></p>
-    <p>Escrita em código com Python3<p>
-    
+    <p>Escrita em código com Python3</p>
     <p><h2>requisitos</h2></p>
         <ul>
             <li>python3(versão3.8 ou superior)</li>
@@ -27,14 +26,6 @@
 
 
 
-<h2>Requisitos</h2>
-     <ul>
-        <li>python3(versão3.8 ou superior)</li>
-        <li>get-pip.py</li> 
-        <li>pip</li> 
-        <li>pyxel(Versão 1.4.3)</li>
-    </ul>
-        pip install -U pyxel
 
 
 
