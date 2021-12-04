@@ -30,13 +30,24 @@
         <li>Instale o <a href="https://www.python.org" target="_blank">Python3</a>(versão3.8 ou superior)</li>
         <li>adicione Python ao <b>PATH</b> <p><img src="images/python_installer.png" type="image/png"/></p></li> 
         <li>Em seguida, instale pyxel com o seguinte comando no prompt de comando:<p><code>pip install pyxel</code></p></li>
+        <li>Baixe o get-pip.py digitando o comando<p><code>curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py</code><p><img src="images/get-pip1.jpg" type="image/png" /></p></li>
+        <li>Agora Instale get-pip.py usando o comando:<p><code>python get-pip.py</code><p><img src="images/get-pip2.png" type="image/png" /></p></li>
     </ul>
+
+<p>Em caso de duvidas consulte os links a baixo:</p>
+<ul>
+<li><a href="https://pypi.org/project/pyxel/">Tutorial pyxel</a></li>
+<li><a href="https://pypi.org/project/pyxel/">Tutorial pyxel</a></li>
+<li><a href="https://phoenixnap.com/kb/install-pip-windows">Tutorial get-pip.py</a></li>
+</ul>
+
+
 
 <p><h2>Autor</h2></p> 
 <hr>
 <img src="images/my.ico" type="image/ico" width="64" height="64"/>
 <p><b>Abel Lucas</b>🎮</p>
-<a href="https://www.instagram.com/abelarduu"/><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width="32" height="32"/> </a>
+<a href="https://www.instagram.com/abelarduu"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width="32" height="32"/></a>
 <a href="https://www.linkedin.com/in/abel-lucas-920b6b217/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/> </a>
 
 <p><h2>Licença</h2></p> 
