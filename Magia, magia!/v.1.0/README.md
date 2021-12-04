@@ -14,38 +14,40 @@
 
 
 <div>
-    <p><h2>Especificações</h2></p>
-        <ul>
-            <li>Escrita em código com <a href="https://www.python.org" target="_blank">Python3</a></li>
-        </ul>
-    <p><h2>requisitos</h2></p>
-        <ul>
-            <li>python3(versão3.9 ou superior)</li>
-            <li>get-pip.py</li>
-            <li>pip</li>
-            <li>pyxel(Versão 1.4.3)</li>
-        </ul>
+<p><h2>Especificações</h2></p>
+    <ul>
+        <li>Escrita em código com <a href="https://www.python.org" target="_blank">Python3</a></li>
+    </ul>
 
-   <h2>Como instalar</h2>
-        <ul>
-            <li>Instale o python3(link) (versão3.8 ou superior)</li>
-            <li>adicione Python ao PATH</li> 
-            <li>Em seguida, instale pyxel com o seguinte comando no prompt de comando:</li>
-        </ul>
-            pip install -U pyxel
+<p><h2>requisitos</h2></p>
+    <ul>
+        <li>python3(versão3.9 ou superior)</li>
+        <li>get-pip.py</li>
+        <li>pip</li>
+        <li>pyxel(Versão 1.4.3)</li>
+    </ul>
 
-<div>
-    <h2>Autor</h2> 
-    _________________________________________________________________
-    <img src="images/icon.ico" type="image/ico" width="32" height="32"/>
-    Abel Lucas🎮
-    icones_instagram icone_linkedin Icone_email
-</div>
+
+<p><h2>Como instalar</h2></p>
+    <ul>
+        <li>Instale o <a href="https://www.python.org" target="_blank">Python3</a>(versão3.8 ou superior)</li>
+        <li>adicione Python ao PATH</li> 
+        <li>Em seguida, instale pyxel com o seguinte comando no prompt de comando:</li>
+    </ul>
+        pip install -U pyxel
+
+
+
+<p><h2>Autor</h2></p> 
+_________________________________________________________________________________________________
+<img src="images/icon.ico" type="image/ico" width="32" height="32"/>
+Abel Lucas🎮
+icones_instagram icone_linkedin Icone_email
+
 
 
 
 <h2>Licença</h2>
-
 
 
 Magic utiliza:
