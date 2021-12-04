@@ -13,24 +13,25 @@
 
 
 <div>
-    Especificações
+    <h2>Especificações</h2>
+        <p>Escrita em código com Python3<p>
 
-Escrita em código com Python3
 
-
-requisitos
-
-.python3(versão3.8 ou superior)
-.pyxel(Versão 1.4.3 )
+    <h2>requisitos</h2>
+        <li>
+        .python3(versão3.8 ou superior)
+        .get-pip.py
+        .pip
+        .pyxel(Versão 1.4.3 )
 
 
 <h2>Como instalar</h2>
- <li>
-.Instale o python3(link) (versão3.8 ou superior)
-.adicione Python ao PATH 
-.Em seguida, instale pyxel com o seguinte comando no prompt de comando:
-</li>
-pip install -U pyxel
+     <ul>
+        <li>Instale o python3(link) (versão3.8 ou superior)</li>
+        <li>adicione Python ao PATH</li> 
+        <li>Em seguida, instale pyxel com o seguinte comando no prompt de comando:</li>
+    </ul>
+        pip install -U pyxel
 
 
 <h2>Autor</h2> 
