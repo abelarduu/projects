@@ -11,17 +11,19 @@
     <p><h4>🚧 Game em construção...🎮🚀🚧</h4></p>
 </div>
 
+
+
 <div>
     <p><h2>Especificações</h2></p>
-        <p>Escrita em código com Python3<p>
-
-
-    <h2>requisitos</h2>
-        <li>
-        .python3(versão3.8 ou superior)
-        .get-pip.py
-        .pip
-        .pyxel(Versão 1.4.3 )
+    <p>Escrita em código com Python3<p>
+    
+    <p><h2>requisitos</h2></p>
+        <ul>
+            <li>python3(versão3.8 ou superior)</li>
+            <li>get-pip.py</li>
+            <li>pip</li>
+            <li>pyxel(Versão 1.4.3)</li>
+        </ul>
 
 
 <h2>Como instalar</h2>
