@@ -14,7 +14,7 @@
 
 
 <div>
-###Especificações
+<p><h2>Especificações</p></h2>
     <ul>
         <li>Escrita em código com <a href="https://www.python.org" target="_blank">Python3</a></li>
     </ul>
