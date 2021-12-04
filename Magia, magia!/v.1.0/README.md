@@ -36,7 +36,7 @@
 
 <p>Em caso de duvidas consulte os links a baixo:</p>
 <ul>
-<li><a href="https://pypi.org/project/pyxel/">Tutorial pyxel</a></li>
+<li><a href="https://python.org.br/instalacao-windows/">Tutorial pyxel</a></li>
 <li><a href="https://pypi.org/project/pyxel/">Tutorial pyxel</a></li>
 <li><a href="https://phoenixnap.com/kb/install-pip-windows">Tutorial get-pip.py</a></li>
 </ul>
