@@ -44,11 +44,12 @@
 
 
 
-<h2>Licença</h2>
-
-Magic utiliza:
-   python  
-   pyxel
+<p><h2>Licença</h2></p> 
+<p>Magic utiliza:</p>
+    <ul>
+        <li>python</li>
+        <li>pyxel</li>
+    </ul>
   
 obs: criar arquivo license
 https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository
