@@ -26,6 +26,23 @@
         </ul>
 
 
+
+<h2>Requisitos</h2>
+     <ul>
+        <li>python3(versão3.8 ou superior)</li>
+        <li>get-pip.py</li> 
+        <li>pip</li> 
+        <li>pyxel(Versão 1.4.3)</li>
+    </ul>
+        pip install -U pyxel
+
+
+
+
+
+
+
+
 <h2>Como instalar</h2>
      <ul>
         <li>Instale o python3(link) (versão3.8 ou superior)</li>
