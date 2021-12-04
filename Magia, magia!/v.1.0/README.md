@@ -32,9 +32,9 @@
     <ul>
         <li>Instale o <a href="https://www.python.org" target="_blank">Python3</a>(versão3.8 ou superior)</li>
         <li>adicione Python ao PATH</li> 
-        <li>Em seguida, instale pyxel com o seguinte comando no prompt de comando:</li>
+        <li>Em seguida, instale pyxel com o seguinte comando no prompt de comando:<p><code>pip install pyxel</code></p></li>
     </ul>
-        pip install -U pyxel
+
 
 
 
