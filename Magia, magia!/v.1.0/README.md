@@ -18,8 +18,7 @@
         <ul>
             <li>Escrita em código com <a href="https://www.python.org" target="_blank">Python3</a></li>
         </ul>
-       
-   <p><h2>requisitos</h2></p>
+    <p><h2>requisitos</h2></p>
         <ul>
             <li>python3(versão3.9 ou superior)</li>
             <li>get-pip.py</li>
@@ -27,23 +26,13 @@
             <li>pyxel(Versão 1.4.3)</li>
         </ul>
 
-
-
-
-
-
-
-
-
-
-
-<h2>Como instalar</h2>
-     <ul>
-        <li>Instale o python3(link) (versão3.8 ou superior)</li>
-        <li>adicione Python ao PATH</li> 
-        <li>Em seguida, instale pyxel com o seguinte comando no prompt de comando:</li>
-    </ul>
-        pip install -U pyxel
+   <h2>Como instalar</h2>
+        <ul>
+            <li>Instale o python3(link) (versão3.8 ou superior)</li>
+            <li>adicione Python ao PATH</li> 
+            <li>Em seguida, instale pyxel com o seguinte comando no prompt de comando:</li>
+        </ul>
+            pip install -U pyxel
 
 <div>
     <h2>Autor</h2> 
