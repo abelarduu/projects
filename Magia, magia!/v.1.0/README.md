@@ -39,7 +39,7 @@
 
 
 <p><h2>Autor</h2></p> 
-_________________________________________________________________________________________________
+<hr>
 <img src="images/my.ico" type="image/ico" width="64" height="64"/>
 Abel Lucas🎮
 icones_instagram icone_linkedin Icone_email
