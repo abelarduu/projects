@@ -36,9 +36,8 @@
 <hr>
 <img src="images/my.ico" type="image/ico" width="64" height="64"/>
 <p><b>Abel Lucas</b>🎮</p>
-<a href="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/> </a>
+<a href="https://www.instagram.com/abelarduu"/><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width="32" height="32"/> </a>
 <a href="https://www.linkedin.com/in/abel-lucas-920b6b217/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/> </a>
-
 
 
 
