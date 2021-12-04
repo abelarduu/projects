@@ -16,9 +16,10 @@
 <div>
     <p><h2>Especificações</h2></p>
         <ul>
-            <li>Escrita em código com <a src="https://www.python.org" target="_blank">Python3</a></li>
+            <li>Escrita em código com <a href="https://www.python.org" target="_blank">Python3</a></li>
         </ul>
-    <p><h2>requisitos</h2></p>
+       
+   <p><h2>requisitos</h2></p>
         <ul>
             <li>python3(versão3.9 ou superior)</li>
             <li>get-pip.py</li>
