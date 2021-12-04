@@ -11,8 +11,6 @@
     <p><h4>🚧 Game em construção...🎮🚀🚧</h4></p>
 </div>
 
-
-
 <div>
 <p><h2>Especificações</p></h2>
     <ul>
@@ -27,7 +25,6 @@
         <li>pyxel(Versão 1.4.3)</li>
     </ul>
 
-
 <p><h2>Como instalar</h2></p>
     <ul>
         <li>Instale o <a href="https://www.python.org" target="_blank">Python3</a>(versão3.8 ou superior)</li>
@@ -35,20 +32,20 @@
         <li>Em seguida, instale pyxel com o seguinte comando no prompt de comando:<p><code>pip install pyxel</code></p></li>
     </ul>
 
-
-
-
 <p><h2>Autor</h2></p> 
 <hr>
 <img src="images/my.ico" type="image/ico" width="64" height="64"/>
-Abel Lucas🎮
+<p>Abel Lucas🎮</p>
 icones_instagram icone_linkedin Icone_email
 
 
 
 
-<h2>Licença</h2>
 
+
+
+
+<h2>Licença</h2>
 
 Magic utiliza:
    python  
