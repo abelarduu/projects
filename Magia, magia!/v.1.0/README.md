@@ -38,7 +38,7 @@
 <p><b>Abel Lucas</b>🎮</p>
 icones_instagram 
 <a href="https://www.linkedin.com/in/abel-lucas-920b6b217/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/> </a>
-<a href="https://www.linkedin.com/in/abel-lucas-920b6b217/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/></a>
+
  Icone_email
 
 
