@@ -31,7 +31,7 @@
 <p><h2>Como instalar</h2></p>
     <ul>
         <li>Instale o <a href="https://www.python.org" target="_blank">Python3</a>(versão3.8 ou superior)</li>
-        <li>adicione Python ao PATH <img src="images/python_installer.png" type="image/png"/></li> 
+        <li>adicione Python ao PATH <p><img src="images/python_installer.png" type="image/png"/></p></li> 
         <li>Em seguida, instale pyxel com o seguinte comando no prompt de comando:<p><code>pip install pyxel</code></p></li>
     </ul>
 
