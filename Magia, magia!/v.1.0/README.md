@@ -30,7 +30,7 @@
         <li>Instale o <a href="https://www.python.org" target="_blank">Python3</a>(versão3.8 ou superior)</li>
         <li>adicione Python ao <b>PATH</b> <p><img src="images/python_installer.png" type="image/png"/></p></li> 
         <li>Em seguida, instale pyxel com o seguinte comando no prompt de comando:<p><code>pip install pyxel</code></p></li>
-        <li>Baixe o get-pip.py digitando o comando<p><code>curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py</code><p><img src="images/get-pip1.jpg" type="image/png" /></p></li>
+        <li>Baixe o get-pip.py digitando o comando<p><code>curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py</code><p><img src="images/get-pip1.JPG" type="image/png" /></p></li>
         <li>Agora Instale get-pip.py usando o comando:<p><code>python get-pip.py</code><p><img src="images/get-pip2.png" type="image/png" /></p></li>
     </ul>
 
