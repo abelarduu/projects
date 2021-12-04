@@ -15,7 +15,9 @@
 
 <div>
     <p><h2>Especificações</h2></p>
-    <p>Escrita em código com Python3</p>
+        <ul>
+            <li>Escrita em código com <a src="https://www.python.org" target="_blank">Python3</a></li>
+        </ul>
     <p><h2>requisitos</h2></p>
         <ul>
             <li>python3(versão3.9 ou superior)</li>
