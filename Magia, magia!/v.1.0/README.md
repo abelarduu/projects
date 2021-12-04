@@ -11,9 +11,8 @@
     <p><h4>🚧 Game em construção...🎮🚀🚧</h4></p>
 </div>
 
-
 <div>
-    <h2>Especificações</h2>
+    <p><h2>Especificações</h2></p>
         <p>Escrita em código com Python3<p>
 
 
@@ -33,16 +32,13 @@
     </ul>
         pip install -U pyxel
 
-
-<h2>Autor</h2> 
-_________________________________________________________________
-
-iconAutor.ico
-(redonda)
- Abel Lucas 🎮
-
-icones_instagram icone_linkedin Icone_email
-
+<div>
+    <h2>Autor</h2> 
+    _________________________________________________________________
+    <img src="images/icon.ico" type="image/ico" width="32" height="32"/>
+    Abel Lucas🎮
+    icones_instagram icone_linkedin Icone_email
+</div>
 
 
 
