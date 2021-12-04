@@ -35,7 +35,7 @@
 <p><h2>Autor</h2></p> 
 <hr>
 <img src="images/my.ico" type="image/ico" width="64" height="64"/>
-<p>Abel Lucas🎮</p>
+<p><b color="Blue">Abel Lucas</b>🎮</p>
 icones_instagram icone_linkedin Icone_email
 
 
