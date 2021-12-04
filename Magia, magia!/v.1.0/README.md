@@ -11,6 +11,52 @@
     <p><h4>🚧 Game em construção...🎮🚀🚧</h4></p>
 </div>
 
+
+<div>
+    Especificações
+
+Escrita em código com Python3
+
+
+requisitos
+
+.python3(versão3.8 ou superior)
+.pyxel(Versão 1.4.3 )
+
+
+<h2>Como instalar</h2>
+ <li>
+.Instale o python3(link) (versão3.8 ou superior)
+.adicione Python ao PATH 
+.Em seguida, instale pyxel com o seguinte comando no prompt de comando:
+</li>
+pip install -U pyxel
+
+
+<h2>Autor</h2> 
+_________________________________________________________________
+
+iconAutor.ico
+(redonda)
+ Abel Lucas 🎮
+
+icones_instagram icone_linkedin Icone_email
+
+
+
+
+<h2>Licença</h2>
+
+
+
+Magic utiliza:
+   python  
+   pyxel
+  
+obs: criar arquivo license
+https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository
+</div>
+    
 <footer>
     <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32"/>
