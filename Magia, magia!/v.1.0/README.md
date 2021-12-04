@@ -39,20 +39,13 @@
 <a href="https://www.instagram.com/abelarduu"/><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width="32" height="32"/> </a>
 <a href="https://www.linkedin.com/in/abel-lucas-920b6b217/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/> </a>
 
-
-
-
-
-
 <p><h2>Licença</h2></p> 
-<p>Magic utiliza:</p>
+<p>Magic! utiliza:</p>
     <ul>
         <li>python</li>
         <li>pyxel</li>
     </ul>
-  
-obs: criar arquivo license
-https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository
+
 </div>
     
 <footer>
